@@ -1,48 +1,33 @@
-<h1 align="center">Hi there, I'm Ishmeen 👋</h1>
+# Hi there, I'm Ishmeen 👋
 
-<p align="center">
-  🚀 Passionate about <strong>Machine Learning</strong>, <strong>Generative AI</strong>, and <strong>Big Data Analytics</strong> <br>
-  🧠 Currently exploring <strong>Natural Language Processing</strong> and <strong>Quantum Computing</strong> <br>
-  🎓 Final-year Computer Science Engineering student from Mumbai
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6C63FF&center=false&vCenter=false&width=1000&lines=Final-year+CSE+student+from+Mumbai;Machine+Learning+enthusiast+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Exploring+Generative+AI+and+Big+Data;Currently+learning+NLP+%26+Quantum+Computing)
 
 ---
 
-### 👩🏻‍💻 About Me
+## 👩🏻‍💻 About Me
 
-- 🧪 I love experimenting with cutting-edge tech in real-world projects  
-- 🔍 Keenly interested in combining ML algorithms and data analysis for insights  
-- 🛠️ Working on exciting projects in AI and keeping my GitHub updated  
-- 🎯 Striving to create tech that solves real-world problems
-
----
-
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmeen-garewal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge&logo=githubpages&logoColor=white&color=brightgreen)](https://ishmeen-11.github.io/Ishmeen-Portfolio/)
+- 🎓 I'm a 4th-year Computer Science Engineering student  
+- 🧠 Fascinated by Machine Learning, Generative AI & Big Data Analytics  
+- 📊 I love using data + algorithms to extract actionable insights  
+- 🧪 I enjoy experimenting with new technologies through hands-on projects  
+- 🌱 Currently diving deeper into NLP and Quantum Computing  
 
 ---
 
-### ⚡ Fun Fact
+## 📫 Let's Connect
 
-> I use GitHub not just to share projects but to track my growth in tech 🚀
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishmeen-11&show_icons=true&theme=tokyonight" alt="Ishmeen's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=ishmeen-11&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmeen-11&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/ishmeen-garewal/)  
+- 🌐 [Portfolio Website](https://ishmeen-11.github.io/Ishmeen-Portfolio/)  
 
 ---
 
-<!-- Optionally, you can add a visitor badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishmeen-11&style=flat-square&color=blue" alt="Visitor Badge"/>
-</p>
+## ⚡ Fun Fact
+
+I use GitHub as a digital lab – storing my experiments, tracking my growth, and sharing my tech journey with the world 🚀
+
+---
+
+<!---
+ishmeen-11/ishmeen-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
