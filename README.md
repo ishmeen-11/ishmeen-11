@@ -57,15 +57,45 @@
   <a href="https://ishmeen-11.github.io/Ishmeen-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-informational?style=for-the-badge&logo=githubpages&logoColor=white&color=brightgreen" />
   </a>
-  <a href="https://medium.com/@ishmeen" target="_blank">
+  <a href="https://medium.com/@ishmeengarewal" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="[https://scholar.google.com/citations?user=YOUR_ID_HERE](https://scholar.google.com/citations?user=CW0MP1gAAAAJ&hl=en)" target="_blank">
+  <a href="https://scholar.google.com/citations?user=CW0MP1gAAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
   </a>
 </p>
 
 > ✨ *Let me know if you'd like to collaborate or just geek out over cool tech!*
+
+---
+
+## ✍️ Latest Blog Posts
+
+- [Hallucination or Innovation? The Dream World of AI](https://medium.com/@ishmeengarewal/hallucination-or-innovation-the-dream-world-of-ai-e80ec3d639b1) – An insight into comparing Human Dreams and AI Dreams  
+- [Can AI be the next Steve Martin?](https://medium.com/@ishmeengarewal/can-ai-be-the-next-steve-martin-74ab85fc0524) – A humorous take on comparing the humor quotient of AI with that of comedy mastermind Steve Martin  
+- [From Data to Decisions: How Data Analytics is Driving Business and Technological Innovation](https://medium.com/@ishmeengarewal/from-data-to-decisions-how-data-analytics-is-driving-business-and-technological-innovation-921866ce1e59) – How data is transforming businesses and innovation  
+- [The Quantum Revolution: From Bits to Qubits](https://medium.com/@ishmeengarewal/the-quantum-revolution-from-bits-to-qubits-e38b038c46ff) – A dive into the exciting world of quantum computing  
+
+---
+
+## 🌍 Tech for Good
+
+I believe technology should be harnessed for the greater good of society. Here are some of my contributions to tech that benefits the community:
+
+- 🧑‍💻 **AI for Accessibility**: Exploring ways AI can assist people with disabilities.
+- 🌱 **Sustainable Computing**: Research on reducing AI's carbon footprint in model training.
+- 🏥 **Healthcare Tech**: Using machine learning to predict diseases and improve patient care.
+
+---
+
+## 🎯 2025 Goals
+
+My goals for 2025 are:
+- ✅ Finish the **30-Model Machine Learning Challenge**  
+- 🧪 Contribute to **open-source AI projects** and research papers  
+- 📘 Deep dive into **Transformer models** and **Large Language Models (LLMs)**  
+- 🏆 Build an end-to-end **AI solution for a healthcare or sustainability problem**  
+- 👩🏻‍💻 Expand my **personal brand** as a tech advocate and educator  
 
 ---
 
